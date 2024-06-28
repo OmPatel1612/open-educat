@@ -10,5 +10,3 @@ for i in a:
                 ans.append(j)
     else:
         ans.append(i)
-print(ans)
-
